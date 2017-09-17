@@ -1,0 +1,12 @@
+{
+	"name": "Akagi Mountain Pass",
+	"description": "Downhill",
+	"tags" : ["Drift track"],
+	"geotags": ["lat", "lon"],
+	"country": "Japan",
+	"city": "",
+	"length": "0m",
+	"width": "0m-0m",
+	"pitboxes": "8",
+	"run": "Drift!"
+}
